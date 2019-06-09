@@ -1,0 +1,6 @@
+public void test(){
+
+system out printle("ÄãºÃÑ½!!");
+
+
+}
